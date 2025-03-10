@@ -1,4 +1,4 @@
-        💚𝗬𝗘𝗦𝗦𝗘𝗥 𝗠𝗗💚
+        💚𝔾𝔼𝔼𝕁𝔸𝕐 𝕋𝔼ℂℍ💚
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+TO+FORK+MYrepo;CREATED+BY+YESSER TECH;RELEASED+25.9.2024" alt="Typing SVG" /></a>
 
@@ -7,11 +7,11 @@
 </p>
  
  <a href="https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30">
- <img alt="YESSER " height="300" src="https://files.catbox.moe/9it5tk.jpeg".
+ <img alt="GEEJAY " height="300" src="https://files.catbox.moe/9it5tk.jpeg".
 
 </h1> 
 <p align="center">⚠️<b>𝕃
-YESSER MD</b>, ⚠️ </p>
+Geejay MD</b>, ⚠️ </p>
 
 </p>
   <p align="center">
@@ -27,18 +27,18 @@ YESSER MD</b>, ⚠️ </p>
 
          **HOW TO DEPLOY**
 1.👇 Star and Fork This Repo  
-[![Star and Fork This Repo](https://img.shields.io/static/v1?label=Star%20%26%20Fork%20This%20Repo&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yassin994/YESSER-MD/fork)  
+[![Star and Fork This Repo](https://img.shields.io/static/v1?label=Star%20%26%20Fork%20This%20Repo&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/geejay123/geejay-MD/fork)  
 
 <br>
 
 2. (A)👇 Get Session ID Here for normal bot
-[![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://yesser.onrender.com) 
+[![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://geejay.onrender.com) 
 
  
  2. (B) 👁️ get session id here for bottom bot
  
  
-[![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://yesser-scanner-8309ae116f64.herokuapp.com/) 
+[![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://geejay-scanner-8309ae116f64.herokuapp.com/) 
 
  
  
@@ -53,7 +53,7 @@ YESSER MD</b>, ⚠️ </p>
 <br>
 
 4.👇 Deploy to Heroku If your have account
-[![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/Yassin994/YESSER-1)  
+[![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/GEEJAY994/GEEJAY-1)  
 
 
 
